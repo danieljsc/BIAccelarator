@@ -12,7 +12,7 @@ This features include:
   - Create all staging database structure as a copy of your sources
   - Create SSIS project to Extract data and load to your staging database **(Under development)**
 
-From this point forward you are on your own until new releases to this project
+From this point on you are on your own until new releases to this project
 
 # New Features!
 
