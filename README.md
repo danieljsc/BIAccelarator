@@ -1,5 +1,7 @@
 # BIAccelarator
 
+Readme file edited with [Dillinger].
+
 BIAccelator is a web platform that automates BI implementation tasks.
 Features already implemented include Extraction tasks (built on top of SSIS) from other databases (supporting OLEDB connections).
 
@@ -62,6 +64,7 @@ GNU GENERAL PUBLIC LICENSE Version 3
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
    [EzAPI]: <https://github.com/fpvmorais/EzApi2016>
+   [Dillinger]: <https://dillinger.io/>
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
