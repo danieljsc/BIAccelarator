@@ -29,8 +29,13 @@ BIAccelator uses the following technologies and libraries (all credits included 
 
 ### Todos
 
- - Write MORE Tests
- - Add Night Mode
+ - Automate project deployment to the SQL Server
+ - Deployed project scheduling
+ - Data Warehouse creation and implementation of CDC table load types (0, 1, 2)
+ - SSAS Automated creation and deploy
+    - Structure Creation (Tables and Relationships)
+    - Deploy to SSAS
+    - SSAS partitions processing
 
 License
 ----
